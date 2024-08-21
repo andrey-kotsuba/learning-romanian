@@ -2,6 +2,7 @@
 # yarn lockfile v1
 
 
+
 "@achrinza/node-ipc@^9.2.5":
   version "9.2.9"
   resolved "https://registry.yarnpkg.com/@achrinza/node-ipc/-/node-ipc-9.2.9.tgz#ab4815d9b16f1c83a479fe8791522a3abebb1c6a"
